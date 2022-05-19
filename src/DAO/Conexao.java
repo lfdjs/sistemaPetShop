@@ -24,8 +24,8 @@ public class Conexao {
 //    private final String url = "jdbc:mysql://localhost/petshop";
 //    private final String driver = "com.mysql.cj.jdbc.Driver";
 
-    private final String usuario = "lfdjs0000";
-    private final String senha = "12345678";
+    private final String usuario = "Usuario do Banco";
+    private final String senha = "senha do banco";
     private final String url = "jdbc:mysql://db4free.net:3306/petshop";
     private final String driver = "com.mysql.cj.jdbc.Driver";
     //getters e setters do sql, do preparedstatement e do result set, que são usados nas clases filhas dao
